@@ -7,4 +7,4 @@ Here are two branches:
 
 Test footer
 
-{% include "footer.md" %}
+{% include "./footer.md" %}
